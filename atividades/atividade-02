@@ -1,0 +1,3 @@
+1. Um sistema isolado é quando um banco de dados realiza funções de forma separada, sem comutar ou trocar dados. Nos sistemas isolados pode acontecer a criação de um arquivo para cada função.
+
+2. Um sistema integrado é quando um banco de dados realiza funções de forma compartilhada, ou seja, compartilha dados sem precisar repeti-los, porque todas elas tem acesso. Além disso, os sistemas integrados são soluções para a redundância de dados.

@@ -1,7 +1,0 @@
-1) Dado pode ser considerado tudo que se pode observar, coletar e armazenar em algum meio de armazenamento, e pode ser definido também como um fato isolado, sem valor significativo.
-
-2) Informação pode ser definida como um conjunto de dados contextualizados, ou seja, organizados e relacionados entre si de modo que possuam um significado.
-
-3) Arquivos convencionais, ou popularmente conhecidos apenas como arquivos, são formados por um conjunto de informações e dados de alguma coisa determinada.
-
-4) Banco de dados pode ser definido como um conjunto de arquivos, informações e dados organizados de certa forma para atender necessidades de uma certa comunidade de usuários.
